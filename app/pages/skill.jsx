@@ -12,11 +12,11 @@ function SkillsPage({ isVisible }) {
     },
     'Database': {
       icon: <Database className="text-cyan-400" />,
-      items: ['MongoDB', 'Mongoose', 'Redis']
+      items: ['MongoDB', 'Mongoose', 'Redis(basic)']
     },
     'Tools & Others': {
       icon: <Settings className="text-cyan-400" />,
-      items: ['Git', 'Docker', 'Postman', 'AWS S3', 'Stripe', 'Socket.IO']
+      items: ['Git', 'Docker (basic)', 'Postman', 'AWS S3(basic)', 'Stripe(basic)', 'Socket.IO(basic)']
     }
   };
 
